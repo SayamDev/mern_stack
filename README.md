@@ -1,5 +1,5 @@
 ﻿# mern_stack
-Go to the <strong>Instruction</strong> folder to see how this was structured
+Go to the Instruction folder to see how this was structured
 
 Backend:
 <br>
