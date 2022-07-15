@@ -1,4 +1,7 @@
 ﻿# mern_stack
+ 
+ Tutorial from NetNinja on YouTube
+ 
 Go to the Instruction folder to see how this was structured
 
 Backend:
